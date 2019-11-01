@@ -5,6 +5,6 @@
 - Unity初心者講座に沿って作った自作ゲーム
 
 - 講座URL
-  [![Lecture 00](https://img.youtube.com/vi/97-_OnbwF5M/0.jpg)](https://www.youtube.com/watch?v=97-_OnbwF5M)
+  https://www.udemy.com/share/101F5sCUceeV1RR3w=/
 
 --------------------------------------------------------------------------
